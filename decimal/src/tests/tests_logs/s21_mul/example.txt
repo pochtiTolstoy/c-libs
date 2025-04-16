@@ -1,0 +1,3 @@
+2 5 10
+!end of test
+test file format: [lhs] [rhs] [expected result]\n
