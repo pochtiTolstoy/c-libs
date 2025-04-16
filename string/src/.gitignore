@@ -1,0 +1,6 @@
+report/*
+*.out
+*.a
+*.o
+personal_note.md
+*.dSYM
