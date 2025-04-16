@@ -1,0 +1,23 @@
+#include <check.h>
+#include <s21_matrix.h>
+
+TCase *tcase_s21_create_matrix(void);
+TCase *tcase_s21_remove_matrix(void);
+TCase *tcase_s21_eq_matrix(void);
+TCase *tcase_s21_sum_sub_mult_matrix(void);
+TCase *tcase_s21_mult_matrix(void);
+TCase *tcase_s21_transpose(void);
+TCase *tcase_s21_calc_complements_determinant(void);
+TCase *tcase_s21_inverse_matrix(void);
+TCase *tcase_unit_1(void);
+TCase *tcase_s21_calc_complements_new(void);
+TCase *tcase_s21_create_matrix_new(void);
+TCase *tcase_s21_determinant_new(void);
+TCase *tcase_s21_eq_matrix_new(void);
+TCase *tcase_s21_inverse_matrix_new(void);
+TCase *tcase_s21_mult_matrix_new(void);
+TCase *tcase_s21_mult_number_new(void);
+TCase *tcase_s21_remove_matrix_new(void);
+TCase *tcase_s21_sub_matrix_new(void);
+TCase *tcase_s21_sum_matrix_new(void);
+TCase *tcase_s21_transpose_new(void);
