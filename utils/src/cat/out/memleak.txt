@@ -1,0 +1,3 @@
+Memory leak detected for: ./s21_cat -b  tests/t1.txt tests/t2.txt tests/t3.txt tests/t4.txt tests/t5.txt tests/bytes1.txt tests/bytes2.txt tests/bytes3.txt tests/bytes4.txt tests/bytes5.txt > out/out1.txt
+Invalid read of size: ./s21_cat -b  tests/t1.txt tests/t2.txt tests/t3.txt tests/t4.txt tests/t5.txt tests/bytes1.txt tests/bytes2.txt tests/bytes3.txt tests/bytes4.txt tests/bytes5.txt > out/out1.txt
+ERROR SUMMARY FOR: ./s21_cat -b  tests/t1.txt tests/t2.txt tests/t3.txt tests/t4.txt tests/t5.txt tests/bytes1.txt tests/bytes2.txt tests/bytes3.txt tests/bytes4.txt tests/bytes5.txt > out/out1.txt
